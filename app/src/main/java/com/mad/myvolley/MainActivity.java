@@ -1,4 +1,4 @@
-package com.kassam.myvolley;
+package com.mad.myvolley;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
@@ -20,7 +20,6 @@ import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 
-import java.io.StringReader;
 import java.util.ArrayList;
 import java.util.List;
 

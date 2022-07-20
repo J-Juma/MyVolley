@@ -1,4 +1,4 @@
-package com.kassam.myvolley;
+package com.mad.myvolley;
 
 import org.junit.Test;
 
